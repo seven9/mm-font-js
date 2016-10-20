@@ -53,6 +53,6 @@
                 tagNode(child);
             }
         }
-    }
+    };
     if (document && document.body) tagNode(document.body);
 })();
