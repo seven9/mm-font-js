@@ -1,20 +1,14 @@
 @font-face {
     font-family: 'MM3';
     src: url('fonts/mm3.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
 }
 @font-face {
     font-family: 'Padauk';
     src: url('fonts/Padauk.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
 }
 @font-face {
     font-family: 'ZawGyi';
     src: url('fonts/ZawgyiOne.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
 }
 .__unicode { font-family: 'MM3' !important}
 .__zawgyi { font-family: 'ZawGyi' !important}
